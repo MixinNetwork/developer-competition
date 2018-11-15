@@ -11,7 +11,7 @@ Take home 150,000 USD for your excellence in programming.
 
 ## Rules of Contest
 
-* Registration begins on **November 14th, 2018 **and finish on January 3rd, 2019 at at 23:59 (GMT+8)**
+* Registration begins on **November 14th, 2018** and **finish on January 3rd, 2019 at at 23:59 (GMT+8)**
 *  **The deadline to send your project is on January 4th, 2019 at 23:59 (GMT+8)**
 *  Developers can apply and participate individually or in team.
 * All development must be based on Mixin Network technology platform.
