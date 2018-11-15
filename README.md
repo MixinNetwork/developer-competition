@@ -71,9 +71,9 @@ Attention: item with * is required.
 
 
 ## Documents, introduction, examples
-Mixin network offical developer guide and api please refer to : http://developers.mixin.one/api
+Mixin network official developer guide and api please refer to : http://developers.mixin.one/api
 
-Mixin network offical code please refer to: https://github.com/MixinNetwork 
+Mixin network official code please refer to: https://github.com/MixinNetwork 
 
 Examples, introduction to mixin network and basic concept please refer to: https://mixin-network.gitbook.io/mixin-network/
 
