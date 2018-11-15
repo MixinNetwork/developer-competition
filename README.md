@@ -11,11 +11,10 @@ Take home 150,000 USD for your excellence in programming.
 
 ## Rules of Contest
 
-* Registration begins on **November 14th, 2018 **and finish on January 3rd, 2019 at at 23:59 (GMT+8)**
+* Registration begins on **November 14th, 2018** and **finish on January 3rd, 2019 at at 23:59 (GMT+8)**
 *  **The deadline to send your project is on January 4th, 2019 at 23:59 (GMT+8)**
 *  Developers can apply and participate individually or in team.
 * All development must be based on Mixin Network technology platform.
-For files of relevant code and technological support please refer to: https://github.com/MixinNetwork 
 *  Developers are free to exchange ideas or team up in community. The recommended platform is the official Gitter of Mixin: https://gitter.im/Mixin-Network. Maximum 5 persons per team.
 * Please submit your project from before **January 4th, 2019** at 23:59 (GMT+8)
 * Failure to make your submission is regarded as voluntary withdrawal from the contest.
@@ -69,5 +68,15 @@ Attention: item with * is required.
 
 
   **Thank you for your participation!**
+
+
+## Documents, introduction, examples
+Mixin network official developer guide and api please refer to : http://developers.mixin.one/api
+
+Mixin network official code please refer to: https://github.com/MixinNetwork 
+
+Examples, introduction to mixin network and basic concept please refer to: https://mixin-network.gitbook.io/mixin-network/
+
+
 
 
