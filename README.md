@@ -16,8 +16,11 @@ Take home 150,000 USD for your excellence in programming.
 *  Developers can apply and participate individually or in team.
 * All development must be based on Mixin Network technology platform.
 Examples, introduction to mixin network, and basic concept please refer to: https://mixin-network.gitbook.io/mixin-network/
+
 Mixin network offical code please refer to: https://github.com/MixinNetwork 
+
 Mixin network offical developer guide and api please refer to : http://developers.mixin.one/api
+
 *  Developers are free to exchange ideas or team up in community. The recommended platform is the official Gitter of Mixin: https://gitter.im/Mixin-Network. Maximum 5 persons per team.
 * Please submit your project from before **January 4th, 2019** at 23:59 (GMT+8)
 * Failure to make your submission is regarded as voluntary withdrawal from the contest.
